@@ -76,3 +76,5 @@ http://127.0.0.1:8000/
 Nishita Dattaram Kambli 24105A0006
 Komal Subhash Gosavi 24105A0015
 BIOMEDICAL DEPARTMENT.
+<img width="1848" height="867" alt="image" src="https://github.com/user-attachments/assets/a18ad9ce-7eba-45ba-badb-3e561c42f9bf" />
+
