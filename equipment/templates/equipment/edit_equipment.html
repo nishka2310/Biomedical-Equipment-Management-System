@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>
+
+Edit Equipment
+
+</title>
+
+</head>
+
+<body>
+
+<h1>
+
+Edit Equipment
+
+</h1>
+
+<form method="POST">
+
+{% csrf_token %}
+
+{{ form.as_p }}
+
+<button type="submit">
+
+Update
+
+</button>
+
+</form>
+
+<br>
+
+<a href="/equipment/">
+
+Back
+
+</a>
+
+</body>
+
+</html>
