@@ -61,7 +61,13 @@ Open browser:
 
 http://127.0.0.1:8000/
 
----
+Run project:
+
+pip install django
+py manage.py runserver
+
+Open:
+http://127.0.0.1:8000/equipment/
 
 ## Future Improvements
 
